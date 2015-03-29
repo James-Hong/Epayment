@@ -1,17 +1,13 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
+<head>
+<meta http-equiv="refresh" content="0;url=pages/index.html">
+<title>SB Admin 2</title>
+<script language="javascript">
+    window.location.href = "index.html"
+</script>
+</head>
+<body>
+Go to <a href="index.html">index.html</a>
+</body>
 </html>
